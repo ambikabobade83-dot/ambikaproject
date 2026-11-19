@@ -1,3 +1,9 @@
 Welcome to datamites to learn the git classes
 this is my first class 
 
+
+
+Welcome to my git class
+this my second version 
+
+
